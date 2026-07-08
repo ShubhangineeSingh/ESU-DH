@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is training session in digital humantiites and spatial humanities.
 twitter_username: SpatialHumESU
 github_username: SpatialHumESU
-minimal_mistakes_skin: pink
+minimal_mistakes_skin: blue
 search: true
 
 # Build settings
