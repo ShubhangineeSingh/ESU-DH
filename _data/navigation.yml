@@ -8,5 +8,4 @@ main:
   - title: "About"
     url: /about/
   - title: "Feature Class H Report"
-    url: /feature-class-h-report/
-    
+    url: /feature_class_h_report/
