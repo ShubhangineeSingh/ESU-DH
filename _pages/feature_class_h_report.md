@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Feature Class H Report - Water Features in France
+permalink: /feature_class_h_report/
 ---
 # Feature Class H Report - Water Features in France
 
