@@ -8,8 +8,6 @@ title: Feature Class H Report - Water Features in France
 
 This report provides a comprehensive analysis of all **Feature Class H** (hydrographic/water features) records in the FR.txt Geonames database. France contains **6,140 water feature records** representing rivers, streams, lakes, bays, harbors, and other hydrographic elements.
 
----
-
 ## Overview Statistics
 
 | Metric | Value |
@@ -20,8 +18,6 @@ This report provides a comprehensive analysis of all **Feature Class H** (hydrog
 | **Feature Codes** | 48 unique subcategories |
 | **Records with Elevation Data** | 113 (1.8%) |
 | **Records with Population Data** | 0 (0%) |
-
----
 
 ## Feature Codes Breakdown
 
