@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {: .notice--info}
-📄 You can download my complete academic CV as a PDF [here](#) *(https://drive.google.com/file/d/1t89YfovaJcyLuBQS5EpyjbKW4XczXfS6/edit)*.
+📄 You can download my complete academic CV as a PDF [here](#) *(assets/CV/Shubhanginee_Singh_CV.pdf)*.
 
 ---
 
