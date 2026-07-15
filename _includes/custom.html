@@ -1,43 +1,71 @@
 <style>
-  /* Premium Academic Typography & Contrast Override */
+  /* 1. Global Typography & Font Size Reduction */
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
-    line-height: 1.75 !important;
-    font-size: 1.05rem !important;
-    color: #e2e8f0 !important; /* Brighter, easier-to-read text */
+    line-height: 1.6 !important;
+    font-size: 0.92rem !important; /* Scaled down globally for a compact, elegant layout */
+    color: #cbd5e1 !important;     /* Bright, clean silver-gray text */
   }
 
-  /* Style headers to be crisp and distinct */
-  h1, h2, h3, h4 {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-    font-weight: 700 !important;
-    letter-spacing: -0.025em !important;
-    color: #ffffff !important; /* Stark white headers for perfect contrast */
+  /* 2. REMOVE REPETITIVE PAGE TITLE */
+  /* This completely hides the redundant, giant "Publications" title from the page body,
+     letting your page start directly and beautifully with "Peer-Reviewed Articles" */
+  .page__title {
+    display: none !important;
+  }
+
+  /* 3. Scale Down Headers & Adjust Margins */
+  h2 {
+    font-size: 1.35rem !important;  /* Much cleaner size for "Peer-Reviewed Articles" */
+    margin-top: 1.8em !important;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
     padding-bottom: 0.3em !important;
   }
 
-  /* Make links look clean without default heavy underlines */
-  a {
-    color: #38bdf8 !important; /* Clean Sky Blue accent color */
-    text-decoration: none !important;
-    border-bottom: 1px dashed rgba(56, 189, 248, 0.4) !important;
-    transition: all 0.2s ease;
+  h3 {
+    font-size: 1.1rem !important;
   }
 
-  a:hover {
-    color: #7dd3fc !important;
-    border-bottom-style: solid !important;
+  h1, h2, h3, h4 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.02em !important;
+    color: #ffffff !important;      /* Sharp, contrasting white headers */
   }
 
-  /* Styled blockquote for project metadata */
+  /* 4. Reduce List Item Spacing & Size */
+  .page__content ul li, 
+  .page__content ol li {
+    font-size: 0.92rem !important;  /* Keeps the bibliography looking compact and neat */
+    margin-bottom: 0.8em !important; /* Adds a bit of breathing room between entries */
+    line-height: 1.55 !important;
+  }
+
+  /* 5. Polish and Shrink the "Read Article" Buttons */
+  .btn--primary {
+    font-size: 0.72rem !important;   /* Significantly reduces giant button text */
+    padding: 3px 8px !important;    /* Shrinks the actual height and width of the button */
+    border-radius: 4px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.03em !important;
+    text-transform: uppercase !important;
+    background-color: #0284c7 !important; /* Sleek, professional blue */
+    border: none !important;
+  }
+
+  .btn--primary:hover {
+    background-color: #0369a1 !important;
+  }
+
+  /* 6. Clean Custom Quote/Card styling for CV metadata */
   blockquote {
-    background: rgba(255, 255, 255, 0.03) !important;
-    border-left: 4px solid #38bdf8 !important; /* Sky blue vertical accent bar */
-    padding: 15px 20px !important;
-    margin: 1.5em 0 !important;
-    font-size: 0.95rem !important;
+    background: rgba(255, 255, 255, 0.02) !important;
+    border-left: 3px solid #38bdf8 !important;
+    padding: 12px 18px !important;
+    margin: 1.2em 0 !important;
+    font-size: 0.88rem !important;
     color: #94a3b8 !important;
     border-radius: 4px !important;
   }
 </style>
+
