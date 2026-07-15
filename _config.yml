@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ShubhangineeSingh"
     - label: "CV"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-file-pdf"
       url: "assets/CV/Shubhanginee_Singh_CV.pdf"
 
 footer:
