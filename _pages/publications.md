@@ -31,7 +31,7 @@ author_profile: true
 Writing for public audiences to bridge the gap between academic theory and everyday geopolitical realities:
 
 *   **Singh, S.** (2024). *Why are the safeguards against child albour failing child influencers?*. **Bar and Bench**.  
-    <a href="https://www.barandbench.com/columns/why-are-the-safeguards-against-child-labour-failing-child-influencers" target="_blank">Read Piece</a>
+    <a href="https://www.barandbench.com/columns/why-are-the-safeguards-against-child-labour-failing-child-influencers" class="btn btn--info btn--small" target="_blank">Read Piece</a>
 
 *   **Singh, S.** (2022). *Straddling the Border in the Himalayan Borderlands*. **LiveWire, The Wire**.  
     <a href="https://livewire.thewire.in" class="btn btn--info btn--small" target="_blank">Read Piece</a>
