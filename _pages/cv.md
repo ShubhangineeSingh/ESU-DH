@@ -6,26 +6,41 @@ author_profile: true
 ---
 
 {: .notice--info}
-📄 You can download my complete academic CV as a PDF [here](#) (assets\CV\Shubhanginee_Singh_CV.pdf)*.
+📝 You can download my complete academic CV [here](/assets/CV/Shubhanginee_Singh_CV.pdf).
 
+---
+
+## Academic Appointments
+
+* **Postdoctoral Research Fellow** (2025 – Present)  
+  *Centre for Landscape and Culture, Tallinn University, Estonia*  
+  * **Project:** *MEET: Memory, Everyday Bordering, and Tourism* (Funded by the Estonian Research Council)
+ 
+
+* **Assistant Professor of Political Science** (2023 – 2025)  
+  *National Law University Odisha (NLUO), India*  
+  * **Administrative Leadership:** Co-Director, Centre for Public Health Law \| Co-Director, Centre for Child Rights  
+  * **Editorial Role:** Associate Editor, *Journal on the Rights of the Child of National Law University Odisha*
 
 ---
 
 ## Education
 
-*   **Ph.D. in Political Science** (2018–2024)  
-    *Jawaharlal Nehru University (JNU), New Delhi*
-    **Thesis:** *Governing Borderlands: State, Communities, and Border Management in Arunachal Pradesh*
-*   **M.Phil. in Political Science** (2016–2018)  
-    *Jawaharlal Nehru University (JNU), New Delhi*
-    **Dissertation:** *Differentiated Citizenship in the Protected Areas of Northeast India*
-*   **M.A. in Political Science** (2014–2016)  
-    *Kirori Mal College, University of Delhi*
+* **Ph.D. in Political Science** (2018 – 2024)  
+  *Jawaharlal Nehru University (JNU), New Delhi, India*  
+  * **Thesis:** *Governing Borderlands: State, Communities, and Border Management in Arunachal Pradesh*  
+
+* **M.Phil. in Political Science** (2016 – 2018)  
+  *Jawaharlal Nehru University (JNU), New Delhi, India*  
+  * **Dissertation:** *Differentiated Citizenship in the Protected Areas of Northeast India*  
+
+* **M.A. in Political Science** (2014 – 2016)  
+  *Kirori Mal College, University of Delhi, India*  
+
 ---
 
 ## Key Academic Awards
 
-*   **Mobilitas Incoming Postdoctoral Grant** \| Estonian Research Council (2025)
-*   **UGC–DAAD Indo-German Partnership Scholarship** \| University of Würzburg, Germany (2018)
-*   **UGC Junior Research Fellowship (JRF/SRF)** \| (2016–2024)
-
+* **Mobilitas Incoming Postdoctoral Grant** \| Estonian Research Council (2025)  
+* **UGC-DAAD Indo-German Partnership Scholarship** \| University of Würzburg, Germany (2018)  
+* **UGC Junior Research Fellowship (JRF/SRF)** (2016 – 2024)
