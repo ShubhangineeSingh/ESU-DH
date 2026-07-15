@@ -67,6 +67,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ShubhangineeSingh"
+    - label: "CV"
+      icon: "fab fa-fw fa-github"
+      url: "assets/CV/Shubhanginee_Singh_CV.pdf"
 
 footer:
   links:
@@ -76,9 +79,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    
 
 defaults:
   # _posts
