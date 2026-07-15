@@ -1,70 +1,181 @@
 <style>
-  /* 1. Global Typography & Font Size Reduction */
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  /* ==========================================================================
+     1. GLOBAL TYPOGRAPHY (Compact & Crisp Font Scaling)
+     ========================================================================== */
+  html, body {
+    background-color: #f8fafc !important; /* Premium soft off-white background */
+    color: #334155 !important;           /* Dark slate text (softer and more modern than pure black) */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    font-size: 14px !important;           /* Compacts the entire site's base font size */
     line-height: 1.6 !important;
-    font-size: 0.92rem !important; /* Scaled down globally for a compact, elegant layout */
-    color: #cbd5e1 !important;     /* Bright, clean silver-gray text */
   }
 
-  /* 2. REMOVE REPETITIVE PAGE TITLE */
-  /* This completely hides the redundant, giant "Publications" title from the page body,
-     letting your page start directly and beautifully with "Peer-Reviewed Articles" */
+  /* ==========================================================================
+     2. HEADERS (Scaled down, elegant, and structured)
+     ========================================================================== */
+  h1, h2, h3, h4 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    color: #0f172a !important;           /* Deep charcoal/black for sharp title contrast */
+    font-weight: 700 !important;
+    letter-spacing: -0.02em !important;
+    margin-top: 1.6em !important;
+    margin-bottom: 0.6em !important;
+  }
+
+  /* Completely hides the redundant, giant page header block */
   .page__title {
-    display: none !important;
+    display: none !important; 
   }
 
-  /* 3. Scale Down Headers & Adjust Margins */
+  /* Clean section dividers */
   h2 {
-    font-size: 1.35rem !important;  /* Much cleaner size for "Peer-Reviewed Articles" */
-    margin-top: 1.8em !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
-    padding-bottom: 0.3em !important;
+    font-size: 1.25rem !important;       /* Compact section titles (e.g., "Active Projects") */
+    border-bottom: 1px solid #e2e8f0 !important; /* Subtle divider line */
+    padding-bottom: 0.4em !important;
   }
 
   h3 {
-    font-size: 1.1rem !important;
+    font-size: 1.05rem !important;      /* Even smaller subheadings */
   }
 
-  h1, h2, h3, h4 {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  /* ==========================================================================
+     3. NAVIGATION BAR (Tidy, compact, with clean border like your reference)
+     ========================================================================== */
+  .masthead {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e2e8f0 !important; /* Clean horizontal rule separating nav */
+    padding: 0.6em 0 !important;
+  }
+
+  .site-title {
+    font-size: 0.95rem !important;       /* Keeps your name in top-left elegant and small */
     font-weight: 700 !important;
-    letter-spacing: -0.02em !important;
-    color: #ffffff !important;      /* Sharp, contrasting white headers */
+    color: #0f172a !important;
   }
 
-  /* 4. Reduce List Item Spacing & Size */
+  .masthead__inner-links a {
+    font-size: 0.82rem !important;       /* Smaller navigation links */
+    font-weight: 600 !important;
+    color: #475569 !important;
+    padding: 0.4em 0.8em !important;
+    transition: color 0.15s ease !important;
+  }
+
+  .masthead__inner-links a:hover {
+    color: #0284c7 !important;           /* Elegant muted blue hover accent */
+    text-decoration: none !important;
+  }
+
+  /* ==========================================================================
+     4. SIDEBAR (Enclosed in a clean card)
+     ========================================================================== */
+  .sidebar {
+    background-color: #ffffff !important;
+    border: 1px solid #e2e8f0 !important; /* Elegant card outline */
+    border-radius: 8px !important;
+    padding: 16px !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02) !important;
+  }
+
+  .author__name {
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    margin-top: 12px !important;
+  }
+
+  .author__bio {
+    font-size: 0.8rem !important;        /* Small, neat biography text */
+    color: #64748b !important;
+    line-height: 1.45 !important;
+  }
+
+  .author__urls-wrapper button {
+    font-size: 0.8rem !important;
+  }
+
+  .author__urls a {
+    font-size: 0.8rem !important;        /* Compact sidebar contact links */
+    color: #475569 !important;
+  }
+
+  .author__urls a:hover {
+    color: #0284c7 !important;
+    text-decoration: none !important;
+  }
+
+  .author__urls .svg-inline--fa, 
+  .author__urls i {
+    font-size: 0.85rem !important;       /* Sleeker social icons */
+    color: #64748b !important;
+  }
+
+  /* ==========================================================================
+     5. MAIN CONTENT (Compact lists & tidy paragraph text)
+     ========================================================================== */
+  .page__content p, 
   .page__content ul li, 
   .page__content ol li {
-    font-size: 0.92rem !important;  /* Keeps the bibliography looking compact and neat */
-    margin-bottom: 0.8em !important; /* Adds a bit of breathing room between entries */
-    line-height: 1.55 !important;
+    font-size: 0.88rem !important;       /* Compact, highly readable body size */
+    color: #334155 !important;
+    line-height: 1.6 !important;
   }
 
-  /* 5. Polish and Shrink the "Read Article" Buttons */
+  /* Perfect spacing for your publications list items */
+  .page__content li {
+    margin-bottom: 0.7em !important;
+  }
+
+  /* Inline links styling */
+  .page__content a {
+    color: #025a87 !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid rgba(2, 90, 135, 0.2) !important;
+    transition: all 0.15s ease !important;
+  }
+
+  .page__content a:hover {
+    color: #0284c7 !important;
+    border-bottom-color: #0284c7 !important;
+  }
+
+  /* ==========================================================================
+     6. BUTTONS & UTILITIES
+     ========================================================================== */
   .btn--primary {
-    font-size: 0.72rem !important;   /* Significantly reduces giant button text */
-    padding: 3px 8px !important;    /* Shrinks the actual height and width of the button */
-    border-radius: 4px !important;
+    font-size: 0.7rem !important;        /* Tiny, professional button scale */
     font-weight: 600 !important;
-    letter-spacing: 0.03em !important;
+    padding: 3px 8px !important;
+    border-radius: 4px !important;
+    background-color: #0284c7 !important; /* Premium blue button */
+    color: #ffffff !important;
     text-transform: uppercase !important;
-    background-color: #0284c7 !important; /* Sleek, professional blue */
+    letter-spacing: 0.03em !important;
     border: none !important;
+    box-shadow: none !important;
   }
 
   .btn--primary:hover {
     background-color: #0369a1 !important;
   }
 
-  /* 6. Clean Custom Quote/Card styling for CV metadata */
-  blockquote {
-    background: rgba(255, 255, 255, 0.02) !important;
-    border-left: 3px solid #38bdf8 !important;
-    padding: 12px 18px !important;
-    margin: 1.2em 0 !important;
-    font-size: 0.88rem !important;
+  /* Cleaner "Top of page" links */
+  a[href*="top"], 
+  a[href*="bottom"] {
+    display: inline-block !important;
+    font-size: 0.72rem !important;
     color: #94a3b8 !important;
+    background: #e2e8f0 !important;
+    padding: 3px 8px !important;
     border-radius: 4px !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
+    margin-top: 15px !important;
+  }
+
+  a[href*="top"]:hover, 
+  a[href*="bottom"]:hover {
+    background: #cbd5e1 !important;
+    color: #334155 !important;
   }
 </style>
