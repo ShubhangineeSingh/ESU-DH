@@ -11,7 +11,7 @@ My research lies at the intersection of political geography, border studies, cri
 
 ## Active Projects
 
-### 📖 Project MEET: Memory, Everyday Bordering Experiences and Tourism
+### Project MEET: Memory, Everyday Bordering Experiences and Tourism
 
 > **Funding Agency:** Estonian Research Council (ETAG)  
 > **Position:** Principal Investigator / Postdoctoral Research Fellow  
@@ -23,7 +23,7 @@ Project **MEET** examines the complex interplay of cultural memory and state-led
 
 ## Ethnographic Fieldwork & Concepts
 
-### 🏔️ Atmospheric Bordering (Eastern Himalayas)
+### Atmospheric Bordering (Eastern Himalayas)
 
 > **Field Site:** Tawang, Arunachal Pradesh (India-China Borderlands)  
 > **Theoretical Focus:** Volumetric geopolitics, altitude, and battlefield tourism  
