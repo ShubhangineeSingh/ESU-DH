@@ -8,6 +8,7 @@ author_profile: true
 {: .notice--info}
 📄 You can download my complete academic CV as a PDF [here](#) *(assets/CV/Shubhanginee_Singh_CV.pdf)*.
 
+
 ---
 
 ## Education
