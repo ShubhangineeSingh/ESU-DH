@@ -5,9 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{: .notice--info}
-📝 You can download my complete academic CV [here](/assets/CV/Shubhanginee_Singh_CV.pdf).
-
 ---
 
 ## Academic Appointments
