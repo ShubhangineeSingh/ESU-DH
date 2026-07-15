@@ -1,8 +1,18 @@
+
 ---
+title: "All about me"
 permalink: /about/
-title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Shubhanginee Singh
+<br>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**[Post Doctoral Research Fellow] | [Border Studies Researcher]**
+
+I am a Research Fellow at Tallinn Univeristy, Estonia working at the intersection of borders, memory, and tourism. My research examines tourism as a strategy of state territorialization and its critical role as an instrument of infrastructural geopolitics employed by the state in the India-China borderlands. 
+
+Alongside my research, I support Eur-Asian Border Lab as a Community member.
+
+Feel free to reach out to me via [Shubh@tlu.ee](#) or connect with me on [linkedin.com/in/shubhanginee-singh-phd-9ba11317b](#).
