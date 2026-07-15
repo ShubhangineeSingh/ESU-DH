@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: European Summer University Spatial Humanities Workshop
+title: Shubhanginee Singh
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is training session in digital humantiites and spatial humanities.
+  
 twitter_username: SpatialHumESU
 github_username: SpatialHumESU
 minimal_mistakes_skin: dark 
