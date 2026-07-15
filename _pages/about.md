@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 ## Shubhanginee Singh
-<br>
 
-**Post Doctoral Research Fellow | Border Studies Researcher**
+**Postdoctoral Research Fellow | Border Studies Researcher**
 
 I am a Research Fellow at Tallinn University, Estonia working at the intersection of borders, memory, and tourism. My research examines tourism as a strategy of state territorialization and its critical role as an instrument of infrastructural geopolitics employed by the state in the India-China borderlands. 
 
