@@ -1,11 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
-  - title: "Report"
-    url: /feature_class_h_report/
+  - title: "Research & Projects"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks & Engagement"
+    url: /engagement/
+  - title: "CV"
+    url: /cv/
+    
