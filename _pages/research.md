@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of political geography, border studies, critical tourism, and memory politics in South Asia and Europe[cite: 1]. 
+My research lies at the intersection of political geography, border studies, critical tourism, and memory politics in South Asia and Europe. 
 
 ---
 
