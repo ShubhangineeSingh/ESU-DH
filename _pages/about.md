@@ -14,4 +14,4 @@ I am a Research Fellow at Tallinn University, Estonia working at the intersectio
 
 Alongside my research, I support Eur-Asian Border Lab as a Community member.
 
-Feel free to reach out to me via [Shubh@tlu.ee](mailto:Shubh@tlu.ee)(#) or connect with me on [LinkedIn](https://www.linkedin.com/in/shubhanginee-singh-phd-9ba11317b/)(#).
+Feel free to reach out to me via [Shubh@tlu.ee](mailto:Shubh@tlu.ee) or connect with me on [LinkedIn](https://www.linkedin.com/in/shubhanginee-singh-phd-9ba11317b/).
