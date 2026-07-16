@@ -15,8 +15,8 @@ author_profile: true
  
 * **Assistant Professor of Political Science** (2023 – 2025)  
   *National Law University Odisha (NLUO), India*  
-  ***Administrative Leadership:** Co-Director, Centre for Public Health Law \| Co-Director, Centre for Child Rights  
-  ***Editorial Role:** Associate Editor, *Journal on the Rights of the Child of National Law University Odisha*
+  **Administrative Leadership:** Co-Director, Centre for Public Health Law \| Co-Director, Centre for Child Rights  
+  **Editorial Role:** Associate Editor, *Journal on the Rights of the Child of National Law University Odisha*
 
 * **Assistant Professor Political Science (Visiting Faculty)** (2022-2023)
   *Dr.B.R.Ambedkar National Law University, Sonipat*
@@ -45,13 +45,4 @@ author_profile: true
 * **UGC-DAAD Indo-German Partnership Scholarship** \| University of Würzburg, Germany (2018)  
 * **UGC Junior Research Fellowship (JRF/SRF)** (2016 – 2024)
 
----
 
-|    table  | contents |
-|-----------|----------|
-|first thing|second thing|
-|-----------|-------------|
-|third thing|fourth thing|
-|-----------|------------|
-
----
