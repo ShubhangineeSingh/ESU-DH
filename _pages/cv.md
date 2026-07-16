@@ -13,11 +13,15 @@ author_profile: true
   *Centre for Landscape and Culture, Tallinn University, Estonia*  
   * **Project:** *MEET: Memory, Everyday Bordering, and Tourism* (Funded by the Estonian Research Council)
  
-
 * **Assistant Professor of Political Science** (2023 – 2025)  
   *National Law University Odisha (NLUO), India*  
   * **Administrative Leadership:** Co-Director, Centre for Public Health Law \| Co-Director, Centre for Child Rights  
   * **Editorial Role:** Associate Editor, *Journal on the Rights of the Child of National Law University Odisha*
+
+-**Assistant Professor Political Science (Visiting Faculty)** (2022-2023)
+*Dr.B.R.Ambedkar National Law University, Sonipat*
+Taught Political Theory, Indian Political Thought, Western Political Thought, and Indian Politics.
+
 
 ---
 
