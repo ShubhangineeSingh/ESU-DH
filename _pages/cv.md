@@ -19,8 +19,9 @@ author_profile: true
   * **Editorial Role:** Associate Editor, *Journal on the Rights of the Child of National Law University Odisha*
 
 -**Assistant Professor Political Science (Visiting Faculty)** (2022-2023)
-*Dr.B.R.Ambedkar National Law University, Sonipat*
-Taught Political Theory, Indian Political Thought, Western Political Thought, and Indian Politics.
+  *Dr.B.R.Ambedkar National Law University, Sonipat*
+  Taught Political Theory, Indian Political Thought, Western Political Thought, and Indian Politics.
+  
 
 
 ---
