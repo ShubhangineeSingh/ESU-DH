@@ -44,3 +44,14 @@ author_profile: true
 * **Mobilitas Incoming Postdoctoral Grant** \| Estonian Research Council (2025)  
 * **UGC-DAAD Indo-German Partnership Scholarship** \| University of Würzburg, Germany (2018)  
 * **UGC Junior Research Fellowship (JRF/SRF)** (2016 – 2024)
+
+---
+
+|    table  | contents |
+|-----------|----------|
+|first thing|second thing|
+|-----------|-------------|
+|third thing|fourth thing|
+|-----------|------------|
+
+---
